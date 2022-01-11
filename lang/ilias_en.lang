@@ -1,0 +1,19 @@
+content_tab#:#Content
+style_tab#:#Style
+description_text_config#:#Fill the template for the welcome text for user in installed languages. The following placeholders may be used: [LOGIN_NAME], [FIRST_NAME], [LAST_NAME], [CREATE_DATE], [FIRST_LOGIN], [COUNT_COURSES], [COUNT_START_COURSES_TODAY], [PICTURE_PROFILE_URL], [IF_FIRSTLOGIN][/IF_FIRSTLOGIN], [IF_BIRTHDAY][/IF_BIRTHDAY], [LAST_VISITED_TITLE], [LAST_VISITED_LINK]
+description_style_config#:#You can include CSS for the plugin
+config_modified#:#Changes were saved
+content_label_en#:#Content (EN)
+content_en#:#You can write here your welcome text for (EN)
+content_label_de#:#Content (DE)
+content_de#:#You can write here your welcome text for users (DE)
+content_label_el#:#Content (EL)
+content_el#:#You can write here your welcome text for users (EL)
+color_label#:#Font Color
+font_style_bold#:#Font Bold
+font_style_italic#:#Font Italic
+font_size#:#Font Size
+css#:#CSS
+content_es#:#You can write here your welcome text for users (ES)
+content_fr#:#You can write here your welcome text for users (FR)
+

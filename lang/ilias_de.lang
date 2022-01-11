@@ -1,0 +1,19 @@
+content_tab#:#Inhalt
+style_tab#:#Style
+description_text_config#:#Füllen Sie die Template für den Begrüßungstext für den Benutzer in installierten Sprachen aus. Im Felder können folgende Platzhalter verwendet werden: [LOGIN_NAME], [FIRST_NAME], [LAST_NAME], [CREATE_DATE], [FIRST_LOGIN], [COUNT_COURSES], [COUNT_START_COURSES_TODAY], [PICTURE_PROFILE_URL], [IF_FIRSTLOGIN][/IF_FIRSTLOGIN], [IF_BIRTHDAY][/IF_BIRTHDAY], [LAST_VISITED_TITLE], [LAST_VISITED_LINK]
+description_style_config#:#Sie können hier CSS für das Plugin beinhalten
+config_modified#:#Änderungen gespeichert
+content_label_en#:#Inhalt (EN)
+content_en#:#Sie können hier Ihren Begrüßungstext schreiben (EN)
+content_label_de#:#Inhalt (DE)
+content_de#:#Sie können hier Ihren Begrüßungstext schreiben (DE)
+content_label_el#:#Inhalt (EL)
+content_el#:#You can write here your Begrüßungstext for users (EL)
+color_label#:#Font Color
+font_style_bold#:#Font Bold
+font_style_italic#:#Font Italic
+font_size#:#Font Size
+css#:#CSS
+content_es#:#Sie können hier Ihren Begrüßungstext schreiben (ES)
+content_fr#:#Sie können hier Ihren Begrüßungstext schreiben (FR)
+

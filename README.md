@@ -1,6 +1,6 @@
 ## Installation
 
-### Install PersDashboard Plugin
+### Install PersDashboard
 Start at your ILIAS root directory
 ```bash
 mkdir -p Customizing/global/plugins/Services/UIComponent/UserInterfaceHook

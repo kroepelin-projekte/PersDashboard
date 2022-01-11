@@ -1,0 +1,19 @@
+content_tab#:#Περιεχόμενο
+style_tab#:#Στυλ
+description_text_config#:#Συμπληρώστε το κείμενο καλωσορίσματος για τους χρήστες στις εγκαταστημένες γλώσσες. Fill the template for the welcome text for user in installed languages. Μπορείτε να χρησιμοποιήσετε τα ακόλουθα: [LOGIN_NAME], [FIRST_NAME], [LAST_NAME], [CREATE_DATE], [FIRST_LOGIN], [COUNT_COURSES], [COUNT_START_COURSES_TODAY], [PICTURE_PROFILE_URL], [IF_FIRSTLOGIN][/IF_FIRSTLOGIN], [IF_BIRTHDAY][/IF_BIRTHDAY], [LAST_VISITED_TITLE], [LAST_VISITED_LINK]
+description_style_config#:#Εδώ μπορείτε να συμπεριλάβετε CSS για το plugin
+config_modified#:#Οι αλλαγές αποθηκεύτηκαν
+content_label_en#:#Περιεχόμενο (EN)
+content_en#:#Συμπληρώστε εδώ το κείμενο καλωσορίσματος για χρήστες (EN)...
+content_label_de#:#Περιεχόμενο (DE)
+content_de#:#Συμπληρώστε εδώ το κείμενο καλωσορίσματος για χρήστες (DE)...
+content_label_el#:#Περιεχόμενο (EL)
+content_el#:#Συμπληρώστε εδώ το κείμενο καλωσορίσματος για χρήστες (EL)...
+color_label#:#Font Color
+font_style_bold#:#Font Bold
+font_style_italic#:#Font Italic
+font_size#:#Font Size
+css#:#CSS
+content_es#:#Συμπληρώστε εδώ το κείμενο καλωσορίσματος για χρήστες (ES)
+content_fr#:#Συμπληρώστε εδώ το κείμενο καλωσορίσματος για χρήστες (FR)
+
