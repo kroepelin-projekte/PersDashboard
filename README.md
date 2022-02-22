@@ -5,7 +5,7 @@ Start at your ILIAS root directory
 ```bash
 mkdir -p Customizing/global/plugins/Services/UIComponent/UserInterfaceHook
 cd Customizing/global/plugins/Services/UIComponent/UserInterfaceHook
-https://github.com/kroepelin-projekte/PersDashboard.git PersDashboard
+git clone https://github.com/kroepelin-projekte/PersDashboard.git PersDashboard
 git checkout PersDashboard
 ```
 Update, activate and config the plugin in the ILIAS Plugin Administration
